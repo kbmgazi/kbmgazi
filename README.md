@@ -2,13 +2,37 @@
 
 QA Tester | Payments | APIs | AWS Cloud Certified  
 
-- 🧪 Testing: Postman, REST APIs  
-- ☁️ AWS: S3, Lambda basics  
-- 💳 Card & Payments: DVA, MOTO, POS, Disputes  
+🛠️ Technical Skills
+🧪 QA & Software Testing
+
+Manual Testing
+-Functional & Regression Testing
+-User Acceptance Testing (UAT)
+-Software Testing Lifecycle (STLC) & Software Development Lifecycle (SDLC)
+-Defect Reporting & Tracking
+
+🔗 API Testing
+-REST API Testing
+-Postman (Collections, Environments, Scripts)
+-Swagger / OpenAPI
+-JSON & JavaScript (test scripts)
+
+💳 Payments & Fintech
+-Way4 Platform
+-Payment Gateway Testing
+-Transaction Lifecycle (Auth, Capture, Refund, Reversal)
+-ISO Response Code 
+
+🗄 Databases
+-SQL (queries, joins, validation)
+
+📂 Tools & Platforms
+-Jira
+-Confluence
+-Git & GitHub
+-VS Code
 
 ## Featured Projects
-1. Payments Mock API Platform  
-2. API Testing Automation Suite  
-3. AWS Payments Architecture Lab  
+1. Project - 01 _ Payment Gateway API Testing 
 
 📫 Connect with me: www.linkedin.com/in/kbmgazi / mgazikb@gmai.com
