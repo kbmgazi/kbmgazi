@@ -20,7 +20,7 @@ Manual Testing
 💳 Payments & Fintech
 -Way4 Platform
 -Payment Gateway Testing
--Transaction Lifecycle (Auth, Capture, Refund, Reversal)
+-Transaction Lifecycle 
 -ISO Response Code 
 
 🗄 Databases
