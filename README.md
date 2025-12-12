@@ -38,4 +38,4 @@ Manual Testing
 1. Project - 01 _ Payment Gateway API Testing
 2. Project - 02 _ Card_Management_System API Testing
 
-📫 Connect with me: www.linkedin.com/in/kbmgazi / mgazikb@gmai.com
+📫 Connect with me: www.linkedin.com/in/kbmgazi / mgazikb@gmail.com
